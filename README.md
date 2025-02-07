@@ -40,9 +40,9 @@ console.log(`Hi, I'm ${developer.name} 👩‍💻! I love coding in ${developer
 
 ### **📫 Contact Me:**
 
-- GitHub: [[GitHub Link](https://github.com/k1z-Team)]  
-- Twitter: [[Your Twitter Link](https://x.com/K1zTeam)  
-- Discord: k1z._
+- GitHub: [GitHub Link](https://github.com/k1z-Team) 
+- Twitter: [Your Twitter Link](https://x.com/K1zTeam)  
+- Discord: k1z._ (Dms open)
 
 ---
 
