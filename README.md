@@ -16,10 +16,10 @@ I'm a passionate **she/her** developer with 6 years of coding experience. I spec
 ### **🛠️ Technologies I Love:**
 
 - **JavaScript** 💻  
-- **Python** 🐍  
+- **Python** 🐍
+- **C# / C ** ©️
 - **HTML/CSS** 🌐  
 - **Git/GitHub** 🛠️  
-
 ---
 
 ### **💬 Let’s Code Together:**
