@@ -17,7 +17,7 @@ I'm a passionate **she/her** developer with 6 years of coding experience. I spec
 
 - **JavaScript** 💻  
 - **Python** 🐍
-- **C# / C ** ©️
+- **C# / C** ©️
 - **HTML/CSS** 🌐  
 - **Git/GitHub** 🛠️  
 ---
