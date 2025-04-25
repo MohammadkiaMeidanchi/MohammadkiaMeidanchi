@@ -2,7 +2,7 @@
 
 # **👩‍💻 Hi, I'm K1z !** 🌟
 
-I'm a passionate **she/her** developer with 6 years of coding experience. I specialize in **JavaScript** and **Python**, but I'm also comfortable with other languages. 🚀
+I'm a passionate **He/Him** developer with 6 years of coding experience. I specialize in **JavaScript** and **Python**, but I'm also comfortable with other languages. 🚀
 
 ---
 
