@@ -29,7 +29,7 @@ const developer = {
   name: "Kate",
   languages: ["JavaScript", "Python", "Other languages..."],
   experience: "6 years",
-  pronouns: "She/Her",
+  pronouns: "He/Him",
   interests: ["Web development", "Problem-solving", "Open source projects"],
 };
 
