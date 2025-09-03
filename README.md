@@ -26,7 +26,7 @@ I'm a passionate **He/Him** developer with 6 years of coding experience. I speci
 
 ```javascript
 const developer = {
-  name: "Kate",
+  name: "Kia",
   languages: ["JavaScript", "Python", "Other languages..."],
   experience: "6 years",
   pronouns: "He/Him",
@@ -37,12 +37,6 @@ console.log(`Hi, I'm ${developer.name} 👩‍💻! I love coding in ${developer
 ```
 
 ---
-
-### **📫 Contact Me:**
-
-- GitHub: [GitHub Link](https://github.com/k1z-Team) 
-- Twitter: [Your Twitter Link](https://x.com/K1zTeam)  
-- Discord: k1z._ (Dms open)
 
 ---
 
