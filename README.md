@@ -1,6 +1,6 @@
 ---
 
-# **👩‍💻 Hi, I'm K1z !** 🌟
+# **👩‍💻 Hi, I'm Kia !** 🌟
 
 I'm a passionate **He/Him** developer with 6 years of coding experience. I specialize in **JavaScript** and **Python**, but I'm also comfortable with other languages. 🚀
 
